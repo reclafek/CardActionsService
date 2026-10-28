@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CardActionsService.Tests/CardActionsService.Tests.csproj" Id="1ac17179-1ed7-4871-ab5d-6a570578bab9" />
+  <Project Path="CardActionsService/CardActionsService.csproj" />
+</Solution>

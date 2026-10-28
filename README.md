@@ -40,3 +40,18 @@ The application currently uses in-memory sample data to demonstrate the business
 ## Purpose
 
 This project demonstrates REST API design, separation of responsibilities, business rule implementation, error handling, and unit testing in .NET.
+
+## Example Request
+
+GET /api/cards/User3/Card36
+
+## Example Response
+
+```json
+{
+  "actions": [
+    "ACTION3",
+    "ACTION4",
+    "ACTION9"
+  ]
+}
